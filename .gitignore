@@ -1,0 +1,9 @@
+/vagrant/.aws/credentials
+/vagrant/.ssh/gitlab.ppk
+/vagrant/.vagrant
+.vscode
+.idea
+/vagrant/personal/personal.sh
+/vagrant/.m2/artifactory.sh
+/vagrant/.ssh/ssh-jumphost.priv.openssh.ppk
+/.vagrant
